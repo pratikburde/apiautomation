@@ -1,0 +1,36 @@
+{
+  "data1": "Discovery",
+  "data2": [
+    "Abdul",
+    "kalam"
+  ],
+  "data3": {
+    "name": "Asta",
+    "age": "16"
+  },
+  "data4": [
+    {
+      "name": "Luffy",
+      "age": "19"
+    },
+    {
+      "name": "Zoro",
+      "age": "22",
+      "height": 6
+    }
+  ],
+  "data5": {
+    "eng": {
+      "official": "Malaysia",
+      "common": null
+    },
+    "msa": {
+      "cars": [
+        "ford",
+        "BMW",
+        "Fiat"
+      ],
+      "ITR": true
+    }
+  }
+}
