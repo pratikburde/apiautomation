@@ -5,7 +5,6 @@ import io.restassured.response.Response;
 
 public class Test1 {
     public static void main(String[] args) {
-
         RestAssured.baseURI = "https://jsonplaceholder.typicode.com/posts";
 
         Response response = RestAssured.get();
@@ -15,7 +14,5 @@ public class Test1 {
 
         System.out.println("Code: " + statusCode);
         System.out.println("Body: " + body);
-        
     }
-   
 }
